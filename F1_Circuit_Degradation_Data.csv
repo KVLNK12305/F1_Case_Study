@@ -1,0 +1,23 @@
+Circuit,Degradation_Index_1_10,Wear_Rate_Per_Lap_Seconds,Typical_Stint_Length_Laps,Track_Temperature_Effect,Surface_Abrasiveness,Typical_Compound_Selection,Primary_Degradation_Factor
+Qatar (Lusail),10,0.35,18,Extreme,Very High,C1-C2-C3 (Hardest),Kerb damage + Heat
+Silverstone,9,0.28,22,High,Very High,C1-C2-C3 (Hardest),High-speed corners
+Barcelona-Catalunya,9,0.26,25,High,Very High,C1-C2-C3 (Hardest),Thermal + Abrasion
+Suzuka,8,0.24,28,Medium,High,C2-C3-C4 (Medium-Hard),High-speed corners
+Bahrain International,8,0.22,30,High,High,C2-C3-C4 (Medium-Hard),Heat + Abrasion
+Hungaroring,8,0.21,32,High,Medium,C2-C3-C4 (Medium-Hard),Heat + Track evolution
+Imola,7,0.19,35,Medium,Medium,C2-C3-C4 (Medium-Hard),Mixed conditions
+Spa-Francorchamps,7,0.18,38,Medium,Medium,C2-C3-C4 (Medium-Hard),High-speed + Length
+Circuit of the Americas,7,0.17,40,High,High,C2-C3-C4 (Medium-Hard),Mixed loads
+Jeddah Corniche,7,0.16,42,High,Medium,C3-C4-C5 (Medium),Heat + Street surface
+Interlagos,7,0.15,45,Medium,Medium,C3-C4-C5 (Medium),Variable conditions
+Singapore Marina Bay,6,0.12,48,High,Low,C3-C4-C5 (Medium),Heat + Humidity
+Yas Marina (Abu Dhabi),6,0.11,50,Medium,Medium,C3-C4-C5 (Medium),Heat (reduced evening)
+Albert Park (Melbourne),5,0.1,52,Medium,Medium,C3-C4-C5 (Medium),Track evolution
+Shanghai International,5,0.09,55,Medium,Medium,C2-C3-C4 (Medium-Hard),Mixed conditions
+Mexico City,5,0.08,58,High,Medium,C3-C4-C5 (Medium),Altitude effects
+Red Bull Ring (Austria),4,0.07,60,Low,High,C3-C4-C5 (Medium),Low lateral forces
+Las Vegas Strip,4,0.06,62,Low,Low,C4-C5-C6 (Softest),Cold temperatures
+Montreal (Gilles Villeneuve),3,0.05,65,Medium,Low,C3-C4-C5 (Medium),Low energy transfer
+Monza,2,0.03,70,Medium,Low,C4-C5-C6 (Softest),Low downforce
+Baku City Circuit,2,0.02,72,Low,Low,C3-C4-C5 (Medium),Long straights
+Monaco,1,0.01,78,Low,Very Low,C4-C5-C6 (Softest),Low speeds

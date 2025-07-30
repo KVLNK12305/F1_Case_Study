@@ -1,0 +1,8 @@
+Compound,Hardness,Primary_Use,Grip_Level,Durability,Natural_Rubber_Percent,Synthetic_Rubber_Percent,Carbon_Black_Percent,Silica_Percent,Oils_Plasticizers_Percent,Other_Additives_Percent,Vulcanizing_System_Percent,Antioxidants_Percent,Color_Coding,Operating_Temperature_Range,Warmup_Speed,Degradation_Rate
+C0,Hardest,Extreme durability circuits,Least,Maximum,8,35,25,12,6,8,4,2,Not used in races,High,Slowest,Lowest
+C1,Very Hard,High wear circuits,Low,Very High,9,33,23,14,7,8,4,2,White/Yellow/Red*,High-Medium,Slow,Low
+C2,Hard,Balanced circuits,Moderate,High,10,31,21,16,8,8,4,2,White/Yellow/Red*,Medium,Moderate,Moderate
+C3,Medium,Versatile compound,Balanced,Moderate,11,29,19,18,9,8,4,2,White/Yellow/Red*,Medium,Good,Moderate
+C4,Medium-Soft,Medium grip circuits,High,Medium,12,27,17,20,10,8,4,2,White/Yellow/Red*,Medium-Low,Fast,High
+C5,Soft,Street circuits,Very High,Low,13,25,15,22,11,8,4,2,White/Yellow/Red*,Low,Very Fast,Very High
+C6,Ultra-Soft,Low severity street circuits,Maximum,Least,15,22,12,25,12,8,4,2,Red (when selected),Very Low,Fastest,Highest

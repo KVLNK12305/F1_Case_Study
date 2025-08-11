@@ -40,6 +40,6 @@ This Jupyter notebook explores the evolution of Formula 1 racing from historical
 ```plaintext
 F1-Case-Study/
 ├── Case_Study.ipynb        # The main analysis notebook
-├── requirements.txt        # Dependencies
-├── data/                   # (Optional) Data files if included
+├── requirements.txt        # Dependencies frozen into .txt file
+├── Data FIles/            
 └── README.md               # This file
